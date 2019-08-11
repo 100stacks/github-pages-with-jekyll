@@ -1,3 +1,8 @@
+---
+title: First Blog Post `Draft` using `GitHub` Pages!
+date: 2019-08-10
+---
+
 # First Blog Post `Draft` using `GitHub` Pages!
 
 ## Git it...Got it?! 🚀
