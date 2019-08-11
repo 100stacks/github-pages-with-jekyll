@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First Blog Post using GitHub Pages!"
 date: 2019-08-10
 ---
